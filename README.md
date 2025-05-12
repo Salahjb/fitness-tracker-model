@@ -98,7 +98,7 @@ paho-mqtt
 
 1. Clone the repository
 ```bash
-git clone https://github.com/zachary013/fitness-tracker-model.git
+git clone https://github.com/Salahjb/fitness-tracker-model.git
 cd fitness-tracker-ai
 ```
 
@@ -149,10 +149,10 @@ python app.py
 
 ## 👥 Team
 
-| Avatar                                                                                                  | Name | Role | GitHub                                       |
-|---------------------------------------------------------------------------------------------------------|------|------|----------------------------------------------|
-| <img src="https://github.com/zachary013.png" width="50" height="50" style="border-radius: 50%"/>        | Zakariae Azarkan | WebCam Object Detection | [@zachary013](https://github.com/zachary013) |
-| <img src="https://github.com/Sam-Jab.png" width="50" height="50" style="border-radius: 50%"/>          | Salaheddine El Jably | Model Training | [@Salahjb](https://github.com/Sam-Jab)       |
+| Avatar                                                                                           | Name | Role | GitHub                                       |
+|--------------------------------------------------------------------------------------------------|------|------|----------------------------------------------|
+| <img src="https://github.com/zachary013.png" width="50" height="50" style="border-radius: 50%"/> | Zakariae Azarkan | WebCam Object Detection | [@zachary013](https://github.com/zachary013) |
+| <img src="https://github.com/Salahjb.png" width="50" height="50" style="border-radius: 50%"/>    | Salaheddine El Jably | Model Training | [@Salahjb](https://github.com/Sam-Jab)       |
 
 ## 🤝 Contributing
 
